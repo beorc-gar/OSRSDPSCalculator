@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "name": "attack_potion",
+      "attack": {
+        "percent": 10,
+        "flat": 3
+      }
+    },
+    {
+      "name": "strength_potion",
+      "strength": {
+        "percent": 10,
+        "flat": 3
+      }
+    },
+    {
+      "name": "super_attack",
+      "attack": {
+        "percent": 15,
+        "flat": 5
+      }
+    },
+    {
+      "name": "super_strength",
+      "strength": {
+        "percent": 15,
+        "flat": 5
+      }
+    },
+    {
+      "name": "locator_orb",
+      "hitpoints": {
+        "set": 1
+      }
+    },
+    {
+      "name": "imbued_heart",
+      "magic": {
+        "percent": 10,
+        "flat": 1
+      }
+    },
+    {
+      "name": "magic_potion",
+      "magic": {
+        "flat": 4
+      }
+    },
+    {
+      "name": "ranging_potion",
+      "ranging": {
+        "percent": 10,
+        "flat": 4
+      }
+    },
+    {
+      "name": "wild_pie",
+      "ranging": {
+        "flat": 4
+      },
+      "slayer": {
+        "flat": 5
+      }
+    }
+  ]
+}

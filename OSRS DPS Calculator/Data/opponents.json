@@ -1,0 +1,123 @@
+{
+  "opponents": [
+    {
+      "name": "Goblin",
+      "lvl": 2,
+      "hp": 3,
+      "stats": {
+        "defence": 1,
+        "magic": 1
+      },
+      "def": {
+        "stab": -15,
+        "slash": -15,
+        "crush": -15,
+        "magic": -15,
+        "ranging": -15
+      }
+    },
+    {
+      "name": "Bloodveld",
+      "lvl": 76,
+      "type":"demon",
+      "hp": 120,
+      "slayer": 50,
+      "stats": {
+        "defence": 30,
+        "magic": 1
+      },
+      "def": {
+        "stab": 0,
+        "slash": 0,
+        "crush": 0,
+        "magic": 0,
+        "ranging": 0
+      }
+    },
+    {
+      "name": "Zombie",
+      "lvl": 13,
+      "hp": 22,
+      "undead": true,
+      "stats": {
+        "defence": 10,
+        "magic": 1
+      },
+      "def": {
+        "stab": 0,
+        "slash": 0,
+        "crush": 0,
+        "magic": 0,
+        "ranging": 0
+      }
+    },
+    {
+      "name": "Lesser demon",
+      "lvl": 82,
+      "hp": 81,
+      "type": "demon",
+      "stats": {
+        "defence": 71,
+        "magic": 1
+      },
+      "def": {
+        "stab": 0,
+        "slash": 0,
+        "crush": 0,
+        "magic": -10,
+        "ranging": 0
+      }
+    },
+    {
+      "name": "Green dragon",
+      "lvl": 79,
+      "hp": 75,
+      "type": "dragon",
+      "stats": {
+        "defence": 68,
+        "magic": 68
+      },
+      "def": {
+        "stab": 20,
+        "slash": 40,
+        "crush": 40,
+        "magic": 30,
+        "ranging": 20
+      }
+    },
+    {
+      "name": "Kalphite worker",
+      "lvl": 28,
+      "hp": 40,
+      "type": "kalphite",
+      "stats": {
+        "defence": 20,
+        "magic": 1
+      },
+      "def": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 1,
+        "magic": 10,
+        "ranging": 10
+      }
+    },
+    {
+      "name": "Vampire",
+      "lvl": 61,
+      "hp": 40,
+      "type": "vampire",
+      "stats": {
+        "defence": 55,
+        "magic": 40
+      },
+      "def": {
+        "stab": 0,
+        "slash": 0,
+        "crush": 0,
+        "magic": 0,
+        "ranging": 0
+      }
+    }
+  ]
+}

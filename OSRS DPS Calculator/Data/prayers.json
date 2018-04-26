@@ -1,0 +1,104 @@
+{
+  "prayers": [
+    {
+      "name": "burst_of_strength",
+      "strength": 5,
+      "req": 4,
+      "arm": true
+    },
+    {
+      "name": "clarity_of_thought",
+      "attack": 5,
+      "req": 7,
+      "brain": true
+    },
+    {
+      "name": "sharp_eye",
+      "ranged_attack": 5,
+      "ranged_damage": 5,
+      "req": 8,
+      "eye": true
+    },
+    {
+      "name": "mystic_will",
+      "magic": 5,
+      "req": 9,
+      "pyramid": true
+    },
+    {
+      "name": "superhuman_strength",
+      "strength": 10,
+      "req": 13,
+      "arm": true
+    },
+    {
+      "name": "improved_reflexes",
+      "attack": 10,
+      "req": 16,
+      "brain": true
+    },
+    {
+      "name": "hawk_eye",
+      "ranged_attack": 10,
+      "ranged_damage": 10,
+      "req": 26,
+      "eye": true
+    },
+    {
+      "name": "mystic_lore",
+      "magic": 10,
+      "req": 27,
+      "pyramid": true
+    },
+    {
+      "name": "ultimate_strength",
+      "strength": 15,
+      "req": 31,
+      "arm": true
+    },
+    {
+      "name": "incredible_reflexes",
+      "attack": 15,
+      "req": 34,
+      "brain": true
+    },
+    {
+      "name": "eagle_eye",
+      "ranged_attack": 15,
+      "ranged_damage": 15,
+      "req": 44,
+      "eye": true
+    },
+    {
+      "name": "mystic_might",
+      "magic": 15,
+      "req": 45,
+      "pyramid": true
+    },
+    {
+      "name": "chivalry",
+      "strength": 18,
+      "attack": 15,
+      "req": 60
+    },
+    {
+      "name": "piety",
+      "attack": 20,
+      "strength": 23,
+      "req": 70
+    },
+    {
+      "name": "rigour",
+      "ranged_attack": 20,
+      "ranged_damage": 25,
+      "req": 74,
+      "eye": true
+    },
+    {
+      "name": "augury",
+      "magic": 25,
+      "req": 77,
+      "pyramid": true
+    }
+  ]
+}

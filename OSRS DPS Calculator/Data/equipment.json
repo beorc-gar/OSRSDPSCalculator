@@ -1,0 +1,439 @@
+{
+  "head": [
+    {
+      "name": "Helm of neitiznot",
+      "id":[10828],
+      "req":
+        {
+          "defence": 55
+        }
+      ,
+      "strength": 3
+    },
+    {
+      "name": "Armadyl helmet",
+           "id":[11826],
+      "req": {
+        "defence": 70,
+        "ranging": 70
+      },
+      "stats": {
+        "stab": -5,
+        "slash": -5,
+        "crush": -5,
+        "magic": -5,
+        "ranged": 10
+      }
+    },
+    {
+      "name": "Ancestral hat",
+           "id":[21018],
+      "req": {
+        "defence": 65,
+        "magic": 75
+      },
+      "stats": {
+        "magic": 8,
+        "ranged": -2
+      },
+      "magicDamage": 2
+    }
+  ],
+  "torso": [
+    {
+      "name": "Bandos chestplate",
+            "id":[11832],
+      "req": {
+        "defence": 65
+      },
+      "stats": {
+        "magic": -15,
+        "ranged": -10
+      },
+      "strength": 4
+    },
+    {
+      "name": "Armadyl chestplate",
+            "id":[11828],
+      "req": {
+        "defence": 70,
+        "ranging": 70
+      },
+      "stats": {
+        "stab": -7,
+        "slash": -7,
+        "crush": -7,
+        "magic": -7,
+        "ranged": 33
+      }
+    },
+    {
+      "name": "Ancestral robe top",
+            "id":[21021],
+      "req": {
+        "defence": 65,
+        "magic": 75
+      },
+      "stats": {
+        "magic": 35,
+        "ranged": -8
+      },
+      "magicDamage": 2
+    }
+  ],
+  "legs": [
+    {
+      "name": "Bandos tassets",
+           "id":[11834],
+      "req": {
+        "defence": 65
+      },
+      "stats": {
+        "magic": -21,
+        "ranged": -7
+      },
+      "strength": 2
+    },
+    {
+      "name": "Armadyl chainskirt",
+           "id":[11830],
+      "req": {
+        "defence": 70,
+        "ranging": 70
+      },
+      "stats": {
+        "stab": -6,
+        "slash": -6,
+        "crush": -6,
+        "magic": -6,
+        "ranged": 20
+      }
+    },
+    {
+      "name": "Ancestral robe bottom",
+           "id":[21024],
+      "req": {
+        "defence": 65,
+        "magic": 75
+      },
+      "stats": {
+        "magic": 26,
+        "ranged": -7
+      },
+      "magicDamage": 2
+    }
+  ],
+  "feet": [
+    {
+      "name": "Primordial boots",
+           "id":[13239],
+      "req": {
+        "defence": 75,
+        "strength": 75
+      },
+      "stats": {
+        "magic": -4,
+        "ranged": -1,
+        "stab": 2,
+        "slash": 2,
+        "crush": 2
+      },
+      "strength": 5
+    },
+    {
+      "name": "Pegasian boots",
+           "id":[13237],
+      "req": {
+        "defence": 75,
+        "ranging": 75
+      },
+      "stats": {
+        "magic": -12,
+        "ranged": 12
+      }
+    },
+    {
+      "name": "Eternal boots",
+           "id":[13235],
+      "req": {
+        "defence": 75,
+        "magic": 75
+      },
+      "stats": {
+        "magic": 8
+      }
+    }
+  ],
+  "hands": [
+    {
+      "name": "Barrows gloves",
+            "value":130000,
+      "req": {
+        "defence": 41
+      },
+      "stats": {
+        "magic": 6,
+        "ranged": 12,
+        "stab": 12,
+        "slash": 12,
+        "crush": 12
+      },
+      "strength": 12
+    },
+    {
+      "name": "Tormented bracelet",
+            "id":[19544],
+      "req": {
+        "hitpoints": 75
+      },
+      "stats": {
+        "magic": 10
+      },
+      "magicDamage": 5
+    }
+  ],
+  "back": [
+    {
+      "name": "Infernal cape",
+           "value":50000,
+      "stats": {
+        "magic": 1,
+        "ranged": 1,
+        "stab": 4,
+        "slash": 4,
+        "crush": 4
+      },
+      "strength": 8
+    },
+    {
+      "name": "Ava's assembler",
+           "value":36424,
+      "req": {
+        "ranging": 70
+      },
+      "stats": {
+        "ranged": 8
+      },
+      "rangedStrength": 2
+    },
+    {
+      "name": "Imbued zamorak cape",
+           "value":60000,
+           "req":{"magic":75},
+      "stats": {
+        "magic": 15
+      },
+      "magicDamage": 2
+    },
+    {
+      "name": "Imbued guthix cape",
+           "value":60000,
+           "req":{"magic":75},
+      "stats": {
+        "magic": 15
+      },
+      "magicDamage": 2
+    },
+    {
+      "name": "Imbued saradomin cape",
+           "value":60000,
+           "req":{"magic":75},
+      "stats": {
+        "magic": 15
+      },
+      "magicDamage": 2
+    }
+  ],
+  "neck": [
+    {
+      "name": "Amulet of torture",
+           "id":[19553],
+      "req": {
+        "hitpoints": 75
+      },
+      "stats": {
+        "stab": 15,
+        "slash": 15,
+        "crush": 15
+      },
+      "strength": 10
+    },
+    {
+      "name": "Necklace of anguish",
+           "id":[19547],
+      "req": {
+        "hitpoints": 75
+      },
+      "stats": {
+        "ranged": 15
+      },
+      "rangedStrength": 5
+    },
+    {
+      "name": "Occult necklace",
+           "id":[12002],
+      "req": {
+        "magic": 70
+      },
+      "stats": {
+        "magic": 12
+      },
+      "magicDamage": 10
+    }
+  ],
+  "quiver": [
+    {
+      "name": "Dragon arrow",
+      "rangedStrength": 60
+    }
+  ],
+  "mainhand": [
+    {
+      "name": "Abyssal tentacle",
+               "id":[4151, 12004],
+      "req": {
+        "attack": 75
+      },
+      "stats": {
+        "slash": 90
+      },
+      "strength": 86,
+      "speed": 2.4,
+      "attacks": [
+        {
+          "name": "Flick",
+          "type": "melee",
+          "style": "accurate",
+          "attack": "slash"
+        },
+        {
+          "name": "Lash",
+          "type": "melee",
+          "style": "controlled",
+          "attack": "slash"
+        },
+        {
+          "name": "Deflect",
+          "type": "melee",
+          "style": "defensive",
+          "attack": "slash"
+        }
+      ]
+    },
+    {
+      "name": "Twisted bow",
+               "id":[20997],
+      "req": {
+        "ranging": 75
+      },
+      "stats": {
+        "ranged": 70
+      },
+      "rangedStrength": 20,
+      "speed": 3.6,
+      "2h": true,
+      "attacks": [
+        {
+          "name": "Accurate",
+          "type": "ranged",
+          "style": "accurate",
+          "attack": "ranged"
+        },
+        {
+          "name": "Rapid",
+          "type": "ranged",
+          "style": "rapid",
+          "attack": "ranged"
+        },
+        {
+          "name": "Longrange",
+          "type": "ranged",
+          "style": "longrange",
+          "attack": "ranged"
+        }
+      ]
+    },
+    {
+      "name": "Kodai wand",
+               "id":[21006],
+      "req": {
+        "magic": 75
+      },
+      "stats": {
+        "magic": 28
+      },
+      "speed": 2.4,
+      "magicDamage": 15,
+      "attacks": [
+        {
+          "name": "Bash",
+          "type": "melee",
+          "style": "accurate",
+          "attack": "crush"
+        },
+        {
+          "name": "Pound",
+          "type": "melee",
+          "style": "aggressive",
+          "attack": "crush"
+        },
+        {
+          "name": "Focus",
+          "type": "melee",
+          "style": "defensive",
+          "attack": "crush"
+        }
+      ]
+    }
+  ],
+  "offhand": [
+    {
+      "name": "Dragon defender",
+              "value":40000,
+      "req": {
+        "defence": 60
+      },
+      "stats": {
+        "magic": -3,
+        "ranged": -2,
+        "stab": 25,
+        "slash": 24,
+        "crush": 23
+      },
+      "strength": 6
+    },
+    {
+      "name": "Arcane spirit shield",
+              "id":[12825],
+      "req": {
+        "defence": 75,
+        "prayer": 70,
+        "magic": 65
+      },
+      "stats": {
+        "magic": 20
+      }
+    }
+  ],
+  "finger": [
+    {
+             "id":[6737],
+      "name": "Berserker ring (i)",
+      "strength": 8
+    },
+    {
+             "id":[6733],
+      "name": "Archer's ring (i)",
+      "stats": {
+        "ranged": 8
+      }
+    },
+    {
+             "id":[6731],
+      "name": "Seer's ring (i)",
+      "stats": {
+        "magic": 12
+      }
+    }
+  ]
+}

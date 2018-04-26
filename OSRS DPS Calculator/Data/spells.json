@@ -1,0 +1,246 @@
+{
+  "spells": [
+    {
+      "name": "wind_strike",
+      "req": 1,
+      "damage": 2
+    },
+    {
+      "name": "water_strike",
+      "req": 5,
+      "damage": 4
+    },
+    {
+      "name": "wind_bolt",
+      "req": 17,
+      "damage": 9,
+      "chaos_gauntlets": true
+    },
+    {
+      "name": "water_bolt",
+      "req": 23,
+      "damage": 10,
+      "bolt": true
+    },
+    {
+      "name": "wind_blast",
+      "req": 41,
+      "damage": 13
+    },
+    {
+      "name": "water_blast",
+      "req": 47,
+      "damage": 14
+    },
+    {
+      "name": "earth_strike",
+      "req": 9,
+      "damage": 6
+    },
+    {
+      "name": "fire_strike",
+      "req": 13,
+      "damage": 8
+    },
+    {
+      "name": "earth_bolt",
+      "req": 29,
+      "damage": 11,
+      "bolt": true
+    },
+    {
+      "name": "fire_bolt",
+      "req": 35,
+      "damage": 12,
+      "bolt": true
+    },
+    {
+      "name": "earth_blast",
+      "req": 53,
+      "damage": 15
+    },
+    {
+      "name": "fire_blast",
+      "req": 59,
+      "damage": 16
+    },
+    {
+      "name": "wind_wave",
+      "req": 62,
+      "damage": 17
+    },
+    {
+      "name": "water_wave",
+      "req": 65,
+      "damage": 18
+    },
+    {
+      "name": "wind_surge",
+      "req": 81,
+      "damage": 21
+    },
+    {
+      "name": "water_surge",
+      "req": 85,
+      "damage": 22
+    },
+    {
+      "name": "smoke_rush",
+      "req": 50,
+      "damage": 14
+    },
+    {
+      "name": "shadow_rush",
+      "req": 52,
+      "damage": 15
+    },
+    {
+      "name": "earth_wave",
+      "req": 70,
+      "damage": 19
+    },
+    {
+      "name": "fire_wave",
+      "req": 75,
+      "damage": 20
+    },
+    {
+      "name": "earth_surge",
+      "req": 90,
+      "damage": 23
+    },
+    {
+      "name": "fire_surge",
+      "req": 95,
+      "damage": 24
+    },
+    {
+      "name": "blood_rush",
+      "req": 56,
+      "damage": 16
+    },
+    {
+      "name": "ice_rush",
+      "req": 58,
+      "damage": 17
+    },
+    {
+      "name": "smoke_burst",
+      "req": 62,
+      "damage": 18
+    },
+    {
+      "name": "shadow_burst",
+      "req": 64,
+      "damage": 19
+    },
+    {
+      "name": "smoke_blitz",
+      "req": 74,
+      "damage": 23
+    },
+    {
+      "name": "shadow_blitz",
+      "req": 76,
+      "damage": 24
+    },
+    {
+      "name": "smoke_barrage",
+      "req": 86,
+      "damage": 27
+    },
+    {
+      "name": "shadow_barrage",
+      "req": 88,
+      "damage": 28
+    },
+    {
+      "name": "blood_burst",
+      "req": 68,
+      "damage": 21
+    },
+    {
+      "name": "ice_burst",
+      "req": 70,
+      "damage": 22
+    },
+    {
+      "name": "blood_blitz",
+      "req": 80,
+      "damage": 25
+    },
+    {
+      "name": "ice_blitz",
+      "req": 82,
+      "damage": 26
+    },
+    {
+      "name": "blood_barrage",
+      "req": 92,
+      "damage": 29
+    },
+    {
+      "name": "ice_barrage",
+      "req": 94,
+      "damage": 30
+    },
+    {
+      "name": "crumble_undead",
+      "req": 39,
+      "damage": 15,
+      "undead": true
+    },
+    {
+      "name": "iban_blast",
+      "req": 50,
+      "damage": 25,
+      "staff": [
+        "Iban's Staff"
+      ]
+    },
+    {
+      "name": "magic_dart",
+      "req": 50,
+      "damage": 25,
+      "staff": [
+        "Slayer's staff",
+        "Slayer's staff (e)",
+        "Staff of the dead",
+        "Toxic staff of the dead",
+        "Staff of light"
+      ],
+      "slayer": true
+    },
+    {
+      "name": "saradomin_strike",
+      "req": 60,
+      "damage": 20,
+      "staff": [
+        "Saradomin staff",
+        "Staff of light"
+      ],
+      "god": true
+    },
+    {
+      "name": "claws_of_guthix",
+      "req": 60,
+      "damage": 20,
+      "staff": [
+        "Guthix staff",
+        "Void knight mace"
+      ],
+      "god": true
+    },
+    {
+      "name": "flames_of_zamorak",
+      "req": 60,
+      "damage": 20,
+      "staff": [
+        "Zamorak staff",
+        "Staff of the dead",
+        "Toxic Staff of the dead"
+      ],
+      "god": true
+    }
+  ]
+}
