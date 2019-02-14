@@ -1,9 +1,6 @@
 //
-//  File.swift
+//  ModelViewController.swift
 //  OSRS DPS Calculator
-//
-//  Created by Bronson Graansma on 2018-03-15.
-//  Copyright © 2018 Bronson Graansma. All rights reserved.
 //
 
 import Foundation
