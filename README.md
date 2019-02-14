@@ -1,5 +1,4 @@
 # OSRS DPS Calculator
-**Bronson Graansma**
 
 ## Introduction
 The OSRS DPS Calculator is an iOS app developed in Swift 4, which will calculate the damage per second of an [*OldSchool RuneScape*](http://oldschool.runescape.com) character in game. The app uses the following things to determine DPS:
